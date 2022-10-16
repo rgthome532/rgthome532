@@ -1,4 +1,4 @@
-### Hello, Im Rejeanne, welcome to my Bio, logging my CyberVets internship with CMS 💻
+### Hello, welcome to my bio loggin all things in my CyberVets internship with CMS 💻
 
 <!--
 **rgthome532/rgthome532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
