@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![CyberVets](https://user-images.githubusercontent.com/106772010/172212327-7a90e3a5-cf54-4ff4-b372-71422c2941fd.jpg)
+
+
+The CyberVets program is hosted through the Centers for Medicare & Medicaid Services. The program is used to aid in transitioning warfighters to civilian missions that help protect and strengthen our federal IT infrastructure. Its a six-month rotation giving servicemembers the ability to learn the skills required to protect data and networks through "on the job" training.
