@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 
 
 The CyberVets program is hosted through the Centers for Medicare & Medicaid Services. The program is used to aid in transitioning warfighters to civilian missions that help protect and strengthen our federal IT infrastructure. Its a six-month rotation giving servicemembers the ability to learn the skills required to protect data and networks through "on the job" training.
+
+
+
+
+
+
+
+
+A little bit about myself, Ive spent the last 4 1/2 years in the US Navy as a Gunner's Mate. My responsbilities included leading junior personnel in the day to day operations making sure all maintenance, training and personnel qualifications were met. I was also responsible for a gun weapon system as the lead technician, creating a maintenance plan and troubleshooting issues when they came up. These responsibilities gave me a solid foundation to organzize, lead and prioritize situations at hand which has and will prepare me for this transition into cyber security. 
