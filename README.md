@@ -27,7 +27,7 @@ The CyberVets program is hosted through the Centers for Medicare & Medicaid Serv
 
 
 
-A little bit about myself, Ive spent the last 4 1/2 years in the US Navy as a Gunner's Mate. My responsbilities included leading junior personnel in the day to day operations making sure all maintenance, training and personnel qualifications were met. I was also responsible for a gun weapon system as the lead technician, creating a maintenance plan and troubleshooting issues when they came up. These responsibilities gave me a solid foundation to organzize, lead and prioritize situations at hand which has and will prepare me for this transition into cyber security. 
+A little bit about myself, Ive spent the last 4 1/2 years in the US Navy as a Gunner's Mate. My responsbilities included leading junior personnel in the day to day operations making sure all maintenance, training and personnel qualifications were met. I was also responsible for a gun weapon system as the lead technician, creating a maintenance plan and troubleshooting issues when they came up. These responsibilities gave me a solid foundation to organize, lead and prioritize situations at hand which has and will prepare me for this transition into cyber security. 
 
 
 Check out my [LinkedIn](https://www.linkedin.com/in/rgthome532/)
