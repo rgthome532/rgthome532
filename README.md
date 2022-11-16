@@ -32,4 +32,4 @@ A little bit about myself, Ive spent the last 4 1/2 years in the US Navy as a Gu
 
 Check out my [LinkedIn](https://www.linkedin.com/in/rgthome532/)
 
-My Learning [Journey](https://github.com/users/rgthome532/projects/8)
+My Learning [Path](https://github.com/users/rgthome532/projects/8)
