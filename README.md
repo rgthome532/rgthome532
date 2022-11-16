@@ -34,4 +34,4 @@ Check out my [LinkedIn](https://www.linkedin.com/in/rgthome532/)
 
 My Learning [Path](https://github.com/users/rgthome532/projects/8)
 
-Escalate[Challenges](https://github.com/users/rgthome532/projects/9)
+Escalate [Challenges](https://github.com/users/rgthome532/projects/9)
